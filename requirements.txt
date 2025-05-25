@@ -1,0 +1,6 @@
+streamlit
+qrcode
+pillow
+pandas
+opencv-python
+numpy 
